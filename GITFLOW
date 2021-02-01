@@ -7,3 +7,5 @@
 7. Do work in this branch and add and commit your work
 8. Regularly incorporate changes in the develop branch with "git fetch" and "git rebase -i origin/develop"
 9. When done "git push"
+
+NICE
